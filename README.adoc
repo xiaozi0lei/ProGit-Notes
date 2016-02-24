@@ -1,2 +1,8 @@
-# ProGit-Notes
+= ProGit-Notes
+Sun Guolei <xiaozi0lei@gmail.com>
+2016-02-24
+:toc:
+
 阅读ProGit中文版的笔记
+
+== Hello, ProGit
